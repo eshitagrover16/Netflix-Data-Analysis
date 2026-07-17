@@ -114,7 +114,7 @@ Netflix-Data-Analysis/
 
 ## 👨‍💻 Author
 
-**Your Name**
+*Eshita Grover**
 
 IBM Data Science Professional Certificate Learner
 
